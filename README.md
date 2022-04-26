@@ -1,2 +1,6 @@
 # pal-ocean-CORW
-A palette for visualizing bathymetry
+
+_A palette for visualizing bathymetry_
+
+This repository is part of a family of repositories, including
+[-WORM](https://github.com/dmparrishphd/pal-ocean-WORM).
